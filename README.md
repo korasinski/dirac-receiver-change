@@ -4,7 +4,7 @@ This is a Dirac script to change the receiver number and enviroment parameters i
 
 ------------------------------
 
-![Screenshoot](https://i.imgur.com/Af5qw2E.png)
+![Screenshoot](https://i.imgur.com/Vh1O05s.png)
 
 ------------------------------
 ### Usage
