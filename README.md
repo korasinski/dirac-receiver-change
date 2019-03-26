@@ -2,6 +2,8 @@
 ### A plugin for [Brüel & Kjær - Dirac 6 software](https://www.bksv.com/en/Service/downloads/dirac/6-0)
 This is a Dirac script to change the receiver number and enviroment parameters in selected files. 
 
+**You need a full version of Dirac 6 software to run scripts!**
+
 Use with [wav-splitter-exe](https://github.com/korasinski/wav-splitter-exe) for multichannel file processing.
 
 Based on [IronPython](http://ironpython.net/) and oryginal Dirac scripts made by Acoustics Engineering. 
